@@ -1,5 +1,5 @@
 name = "abhiram"
 status = "learning python"
 tool = "PyCharm"
-message = name + status + tool
+message = name + " is " + status + " in " + tool
 print(message)
