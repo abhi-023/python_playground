@@ -1,2 +1,2 @@
 # python_playground
-print("hello world")
+for mastering in python
