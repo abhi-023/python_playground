@@ -1,4 +1,5 @@
 # A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+# variable name should only start with either _ or alphabet
 var = "John"
 my_var = "John"
 _var = "John"
