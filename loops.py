@@ -60,3 +60,4 @@ print('Current Letter :', letter)
 for letter in 'abhiram':
    pass
 print ('Last Letter :', letter)
+ā
